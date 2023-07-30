@@ -15,7 +15,7 @@ public class Bubble_Sort{
 
             for (int j = 0; j <= size-2-i; j++) {
                 if (array[j+1] < array[j]) {
-                    // Swap array[i] and array[min]
+                    // Swap array[j+1] and array[j]
                     int temp = array[j+1];
                     array[j+1] = array[j];
                     array[j] = temp;
