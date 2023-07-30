@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main {
+public class Selection_Sort {
     public static void main(String[] args) {
 
        System.out.println("enter array size:");
