@@ -1,4 +1,4 @@
-selection sort is a  BigTheta(n2) algorithm on all inputs.
+selection sort is a  BigTheta(n^2) algorithm on all inputs.
 
 ALGORITHM SelectionSort(A[0..n ? 1])
 //Sorts a given array by selection sort
